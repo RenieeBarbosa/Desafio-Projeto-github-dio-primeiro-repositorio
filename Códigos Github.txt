@@ -1,0 +1,22 @@
+# Códigos GitHub :desktop_computer:
+
+### Arquivo criado tendo como objetivo reforçar a memória sobre os códigos utilizados no github.
+
+- **ls:** Código utilizado para listar os arquivos dentro de uma pasta.
+- **cd + nome do arquivo:** Utilizado para ter acesso a uma pasta especifica.
+- **cd .. :** Utilizado para retroceder a pasta anterior.
+- **tab :** Tecla de atalho para completar o nome do arquivo.
+- **mkdir nome do arquivo:** Código utilizado para criação de uma nova pasta.
+- **nome da pasta> echo frase> fras.txt :** Essa sequência criará dentro da pasta um arquivo txt(leitura) com a frase escrita depois do "echo" 
+- **rmdir nome da pasta:** Apagará a pasta selecionada
+- **git init:** Irá iniciar um repositório que se encontrar na pasta, esta ser tornará uma pasta oculta.
+- **ctrl+l: ** Utilizado para limpeza do terminal
+- **ls -a:** Mostra as pastas ocultas de  diretório dentro do repositório.
+- **git config --global user.email:** Configura o commit com os seus dados, dando mais credibilidade para ele.
+- **git config --global user.name:** Configura o commit com os seu nome, dando mais credibilidade para ele.
+- **git status:** Irá realizar uma avaliação do estado dos commit e tree.
+- **git add . :** Adiciona todos os arquivos novos e alterados no commit.
+- **git commit -m "(escrever as alterações)"** : Criará um novo commit para o arquivo, ficando assim pronto para envio para nuvem.
+- **git push origin master > **Irá realizar o envio dos novos commit's para a nuvem.
+
+Sempre que obtiver conhecimento de códigos com os quais eu venha esquecer, estarei anexando nesse arquivo. :smile:

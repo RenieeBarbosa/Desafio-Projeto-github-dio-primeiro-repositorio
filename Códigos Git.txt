@@ -1,6 +1,0 @@
-Arquivo criado para lembrar de alguns códigos quando a memória falhar
-
-git status = irá realizar uma avaliação do estado dos commit e tree
-git ad . = Adiciona todos os arquivos novos e alterados no commit
-git commit -m "(escrever as alterações)" = criará um novo commit para o arquivo, ficando assim pronto para envio para nuvem
-git push origin master = irá realizar o envio dos novos commit's para a nuvem.
